@@ -67,10 +67,14 @@ A five-day take-home case for an invented brand: a 30-question set, a baseline r
 **Is my data sent anywhere?**
 The skill itself sends nothing anywhere: it reads the files in your folder and saves the pack there, like any Claude Code task. If you add a `personal.md`, it's gitignored, so it won't be pushed if you fork this repo.
 
-## Related
+## Related repos
 
-- [viral-reel-playbook](https://github.com/s77sh/viral-reel-playbook): a Claude Code skill for Instagram Reels, TikTok and YouTube Shorts scripts.
 - [claude-seo-skills-benchmark](https://github.com/s77sh/claude-seo-skills-benchmark): 5 Claude Code SEO skill packs tested on 20 planted problems.
+- [claude-random-numbers](https://github.com/s77sh/claude-random-numbers): which number Claude picks when asked for a random one, 446 prompts.
+- [viral-reel-playbook](https://github.com/s77sh/viral-reel-playbook): a Claude Code skill for Instagram Reels, TikTok and YouTube Shorts scripts.
+- [bali-product-demand](https://github.com/s77sh/bali-product-demand): Google Keyword Planner demand for 36 product niches in Bali.
+
+All of them, with what each one is for: [saeedseo.com/repos/](https://saeedseo.com/repos/).
 
 ## Author
 
